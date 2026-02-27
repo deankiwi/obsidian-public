@@ -1,11 +1,14 @@
 ---
-title: Hello World
+title: Welcome
 aliases:
 tags:
 draft: false
 ---
 
+# Hello 👋
+# I'm Dean Welch
+# software developer
 
-## Projects
+
+## Work / Projects
 [Coding my way to Español 🇪🇸](projects/Coding_my_way_to_Spainish/index)
-
