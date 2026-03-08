@@ -6,6 +6,8 @@ tags:
   - coding
 draft: false
 ---
+
 ## Projects
+
 [[1. daily briefing]]
 [[go-racer]]
