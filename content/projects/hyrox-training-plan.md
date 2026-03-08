@@ -1,11 +1,14 @@
 [Home](/index.md) / [Projects](/projects/index.md)
 
 ---
+
 title: Hyrox Training Plan
 tags:
-  - project
-  - web
-  - fitness
+
+- project
+- web
+- fitness
+
 ---
 
 # Hyrox Training Plan
