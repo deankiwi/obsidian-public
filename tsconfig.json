@@ -5,6 +5,10 @@
     "module": "esnext",
     "target": "esnext",
     "moduleResolution": "node",
+    // TS 6 deprecates node10 resolution; Quartz relies on deep imports
+    // (satori/wasm, remark-parse/lib, preact/src/jsx) that are absent from
+    // those packages' "exports" maps, so "bundler" resolution can't see them.
+    "ignoreDeprecations": "6.0",
     "strict": true,
     "incremental": true,
     "resolveJsonModule": true,
