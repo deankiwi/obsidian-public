@@ -6,8 +6,6 @@ tags:
   - golang
 ---
 
-# Go-Racer
-
 A simple CLI typing test tool written in Go.
 
 ## Why I made this
