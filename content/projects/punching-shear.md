@@ -8,6 +8,8 @@ tags:
 draft: false
 ---
 
+website - [punchingshear.com](https://www.punchingshear.com/)
+
 An AI assistant can only work with what it can reach. If a piece of software has no
 way to let it in, you become the go-between: you read numbers off one screen, type
 them into another, then carry the answers back. It works. But it's you doing the
