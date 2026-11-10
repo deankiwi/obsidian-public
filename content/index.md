@@ -24,8 +24,16 @@ increase, watch eight designs recalculate, four fail, then get fixed.
 
 [Read the write-up →](projects/punching-shear)
 
+## Articles
+
+- [The free backend for your mates' game lobby](articles/free-backend-for-your-mates-game-lobby)
+  — why a Cloudflare Durable Object is often all the backend a multiplayer game with
+  friends needs, and why it usually costs nothing.
+
 ## Other projects
 
+- [TurnTimer](projects/turntimer) — a multiplayer chess clock for board games: every
+  player runs the shared clock from their own phone. [Try it](https://timer.deanw.dev/).
 - [Daily Briefing](projects/daily-briefing) 🇪🇸 — a smart alarm that wakes me at 6am
   with a personalised briefing in Spanish: news, markets and weather, scripted and
   voiced automatically, then played from my phone.
